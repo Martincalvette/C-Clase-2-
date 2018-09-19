@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1535673638 source:/home/alumno/Escritorio/utn/main.c
+	<stdio_ext.h>
+	<stdlib.h>
+	"utn.h"
+
+1535673913 /home/alumno/Escritorio/utn/utn.h
+
+1535675065 source:/home/alumno/Escritorio/utn/utn.c
+	"utn.h"
+	<stdio_ext.h>
+	<stdlib.h>
+
+1537145365 source:/home/blackedhs/Programacion/practicas_en_clase/utn/utn.c
+	"utn.h"
+	<stdio_ext.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1537145045 /home/blackedhs/Programacion/practicas_en_clase/utn/utn.h
+
+1537145244 source:/home/blackedhs/Programacion/practicas_en_clase/utn/main.c
+	<stdio_ext.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+
+1536878857 source:/home/alumno/Escritorio/fede/practicas_en_clase/utn/main.c
+	<stdio_ext.h>
+	<stdlib.h>
+	"utn.h"
+
+1536878643 /home/alumno/Escritorio/fede/practicas_en_clase/utn/utn.h
+
+1536879311 source:/home/alumno/Escritorio/fede/practicas_en_clase/utn/utn.c
+	"utn.h"
+	<stdio_ext.h>
+	<stdlib.h>
+	<string.h>
+
