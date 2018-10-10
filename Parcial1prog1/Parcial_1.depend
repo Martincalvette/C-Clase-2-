@@ -1,0 +1,139 @@
+# depslib dependency file v1.0
+1538700940 source:/home/alumno/Documentos/LABPROG1-master/Parcial_1/Clientes.c
+	<stdio_ext.h>
+	<stdlib.h>
+	"utn.h"
+	"Clientes.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1538690539 source:/home/alumno/Documentos/LABPROG1-master/Parcial_1/utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"utn.h"
+
+1538690546 /home/alumno/Documentos/LABPROG1-master/Parcial_1/utn.h
+
+1538702029 source:/home/alumno/Documentos/LABPROG1-master/Parcial_1/main.c
+	<stdio.h>
+	<stdlib.h>
+	"utn.h"
+	"Clientes.h"
+	"Ventas.h"
+
+1538701581 /home/alumno/Documentos/LABPROG1-master/Parcial_1/Clientes.h
+
+1538700727 /home/alumno/Documentos/LABPROG1-master/Parcial_1/Ventas.h
+
+1538701872 source:/home/alumno/Documentos/LABPROG1-master/Parcial_1/Ventas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"utn.h"
+	"Clientes.h"
+	"Ventas.h"
+
+1538703315 source:c:\users\gula\desktop\games\nueva carpeta\clientes.c
+	<stdio_ext.h>
+	<stdlib.h>
+	"utn.h"
+	"Clientes.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1538703315 c:\users\gula\desktop\games\nueva carpeta\utn.h
+
+1538703315 c:\users\gula\desktop\games\nueva carpeta\clientes.h
+
+1538703315 source:c:\users\gula\desktop\games\nueva carpeta\main.c
+	<stdio.h>
+	<stdlib.h>
+	"utn.h"
+	"Clientes.h"
+	"Ventas.h"
+
+1538703315 c:\users\gula\desktop\games\nueva carpeta\ventas.h
+
+1538703315 source:c:\users\gula\desktop\games\nueva carpeta\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"utn.h"
+
+1538703315 source:c:\users\gula\desktop\games\nueva carpeta\ventas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"utn.h"
+	"Clientes.h"
+	"Ventas.h"
+
+1539201053 source:c:\users\gula\desktop\games\nueva carpeta (2)\nueva carpeta\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	"utn.h"
+	"Clientes.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1538703315 c:\users\gula\desktop\games\nueva carpeta (2)\nueva carpeta\utn.h
+
+1539196979 c:\users\gula\desktop\games\nueva carpeta (2)\nueva carpeta\clientes.h
+
+1539201233 source:c:\users\gula\desktop\games\nueva carpeta (2)\nueva carpeta\main.c
+	<stdio.h>
+	<stdlib.h>
+	"utn.h"
+	"Clientes.h"
+	"Ventas.h"
+	"informes.h"
+
+1539200799 c:\users\gula\desktop\games\nueva carpeta (2)\nueva carpeta\ventas.h
+
+1539188892 source:c:\users\gula\desktop\games\nueva carpeta (2)\nueva carpeta\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1539200791 source:c:\users\gula\desktop\games\nueva carpeta (2)\nueva carpeta\ventas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"utn.h"
+	"Clientes.h"
+	"Ventas.h"
+
+1539200981 source:c:\users\gula\desktop\games\nueva carpeta (2)\nueva carpeta\informes.c
+	"informes.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1539200964 c:\users\gula\desktop\games\nueva carpeta (2)\nueva carpeta\informes.h
+	"Clientes.h"
+	"Ventas.h"
+
